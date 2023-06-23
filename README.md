@@ -18,6 +18,5 @@
 
 
 <div align="center"> 
-  <div><h2>📚 B</h2></div>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679"> 
 </div>
