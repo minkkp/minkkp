@@ -1,6 +1,6 @@
 <div align=center> 
-  <img width="300px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
-  <img width="300px" height="250px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679"/>
+  <img width="400px" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+  <img width="400px" height="250px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679"/>
 
 </div>
 
