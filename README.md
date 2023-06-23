@@ -1,9 +1,4 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkkp)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align=center>
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=dark)
 
 <div align=center><h2>📚 STACKS</h2></div>
 <div align=center> 
