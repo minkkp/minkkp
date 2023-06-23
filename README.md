@@ -1,4 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679)](https://solved.ac/goo6679/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=레이아웃 스타일&theme=스타일)
 
 <div align=center> 
   <div><h2>📚 STACKS</h2></div>
