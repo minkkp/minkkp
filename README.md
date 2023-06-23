@@ -1,10 +1,4 @@
 
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679)](https://solved.ac/goo6679/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goo6679)](https://solved.ac/goo6679)
-
-</div>
 
 <div align=center> 
   <div><h2>📚 STACKS</h2></div>
@@ -15,6 +9,12 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <br>
+</div>
+
+
+<div align="center">
+  <div><h2>📚 STACKS</h2></div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679)](https://solved.ac/goo6679/)
 </div>
 
 
