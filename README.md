@@ -1,10 +1,10 @@
-<div align=center> 
+<div> 
   <div><h2>📚 GitHub Stats</h2></div>
   <img src="https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=radical"/>
   <br>
 </div>
 
-<div align=center> 
+<div> 
   <div><h2>📚 STACKS</h2></div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
