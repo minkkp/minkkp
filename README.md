@@ -2,9 +2,9 @@
  
 <div align=center>
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical) 
+![github stats](https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=radical) 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkkp&layout=compact&theme=dracula)](https://github.com/metleeha)
  
 <hr>
  
