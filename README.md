@@ -1,6 +1,9 @@
 <div> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679"/>
+
 </div>
+
 <div> 
   <div><h2>📚 STACKS</h2></div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
