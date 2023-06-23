@@ -13,5 +13,6 @@
   <hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=radical)
 </div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=goo6679)](https://solved.ac/goo6679)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
