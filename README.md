@@ -7,9 +7,7 @@
 
 
 
-<div align="center"> 
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679"> 
-</div>
+
 
 
 
@@ -23,4 +21,6 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <br>
 </div>
-
+<div align="center"> 
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679"> 
+</div>
