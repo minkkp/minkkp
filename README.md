@@ -1,8 +1,9 @@
-<div align=center> 
-  <img width="450px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
-  <img width="300px" height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679"/>
-
+<div> 
+  <div><h2>📚 Stats</h2></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=merko"> 
 </div>
+
+
 
 <div> 
   <div><h2>📚 STACKS</h2></div>
@@ -15,6 +16,10 @@
   <br>
 </div>
 
+<div> 
+  <div><h2>📚 백준</h2></div>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+</div>
 
 
 
