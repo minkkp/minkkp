@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <br>
+  <br>
+  <br>
 </div>
 <div> 
   <div><h2>🏅 Baekjoon solved rank</h2></div>
