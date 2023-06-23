@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+
 <div> 
   <div><h2>📚 Stats</h2></div>
   <img src="https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=merko"> 
@@ -16,10 +18,6 @@
   <br>
 </div>
 
-<div> 
-  <div><h2>📚 백준</h2></div>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-</div>
 
 
 
