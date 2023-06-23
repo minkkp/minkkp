@@ -1,5 +1,3 @@
-
-
 <div align=center> 
   <div><h2>📚 STACKS</h2></div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -13,7 +11,6 @@
 
 
 <div align="center">
-  <div><h2>📚 STACKS</h2></div>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679)](https://solved.ac/goo6679/)
 </div>
 
