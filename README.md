@@ -1,5 +1,4 @@
-
-
+![minkkp's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=merko)
 <div align=center><h2>📚 STACKS</h2></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
