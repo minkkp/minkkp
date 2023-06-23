@@ -1,4 +1,4 @@
-<div align=center><h1>👋 Hi, I’m @ohbyul </h1></div>
+
  
 <div align=center>
  
@@ -12,18 +12,5 @@
 ![followers](https://img.shields.io/github/followers/ohbyul?style=social)
  
  
-<a href="https://byul91oh.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://instagram.com/fivepxint">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:quf8093@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
  
 </div>
