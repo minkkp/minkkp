@@ -1,5 +1,5 @@
-
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679)](https://solved.ac/goo6679)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=radical)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679)](https://solved.ac/goo6679)
 
 <div align=center> 
   <div><h2>📚 STACKS</h2></div>
@@ -11,12 +11,6 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <br>
 </div>
-
-<div align=center> 
-  <div><h2>📚 STACKS</h2></div>
-  <br>
-</div>
-
 
 
 
