@@ -1,4 +1,5 @@
 ![minkkp's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center><h2>📚 STACKS</h2></div>
 <div align=center> 
