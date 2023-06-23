@@ -1,3 +1,4 @@
+  ![minkkp's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=merko)
 
 <div align=center> 
   ![minkkp's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=merko)
