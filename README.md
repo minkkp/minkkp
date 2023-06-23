@@ -1,7 +1,6 @@
-
 <div align=center> 
   <div><h2>📚 STACKS</h2></div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ysjang0926&theme=vue&show_icons=true"/><
+  <img src="https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=radical"/>
   <br>
 </div>
 <div align=center> 
