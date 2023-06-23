@@ -3,6 +3,7 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkkp&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
   <br>
+  <br>
 </div>
 
 
@@ -17,7 +18,6 @@
   <br>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <br>
   <br>
   <br>
 </div>
