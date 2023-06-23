@@ -1,5 +1,5 @@
 <div align=center> 
-  <img width="300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+  <img width="450px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
   <img width="300px" height="200px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679"/>
 
 </div>
