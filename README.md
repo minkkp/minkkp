@@ -1,4 +1,4 @@
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679)](https://solved.ac/goo6679/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679)](https://solved.ac/goo6679/)
 
 <div align=center> 
   <div><h2>📚 STACKS</h2></div>
