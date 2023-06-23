@@ -3,7 +3,7 @@
 <div> 
   <div><h2>💻 Github Stats</h2></div>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
-  <img width="250px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkkp&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
+  <img width="300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkkp&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> 
 </div>
 
 
