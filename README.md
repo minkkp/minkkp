@@ -18,10 +18,6 @@
 
 
 <div align="center"> 
-  <div><h2>📚 STACKS</h2></div>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <div><h2>📚 B</h2></div>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goo6679"> 
 </div>
-
-
-
-
