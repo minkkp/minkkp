@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=merko)
 
 <div align=center><h2>📚 STACKS</h2></div>
 <div align=center> 
