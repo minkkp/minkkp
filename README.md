@@ -1,4 +1,5 @@
 
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minkkp)](https://solved.ac/minkkp)
 
 <div align=center> 
   <div><h2>📚 STACKS</h2></div>
@@ -13,7 +14,6 @@
 
 <div align=center> 
   <div><h2>📚 STACKS</h2></div>
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minkkp)](https://solved.ac/minkkp)
   <br>
 </div>
 
