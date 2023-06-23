@@ -2,6 +2,7 @@
 
 <div> 
   <div><h3>📚 Github Stats</h3></div>
+  <hr>
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=minkkp&show_icons=true&theme=cobalt"> 
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkkp&layout=compact&theme=cobalt"> 
 </div>
